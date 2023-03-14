@@ -1,4 +1,4 @@
 let addinator = (x, y) => {
 	console.log(x+y);
 }
-addinator(2, 2);
+addinator(3, 3);
